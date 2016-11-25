@@ -4,6 +4,8 @@ var {Route, Router, IndexRoute, hashHistory} = require('react-router');
 
 var Todo = require('Todo');
 
+import './../playground'
+
 require('style!css!foundation-sites/dist/foundation.min.css')
 $(document).foundation();
 
